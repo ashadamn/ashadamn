@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-u-170602&label=Profile%20views&color=0e75b6&style=flat" alt="ash-u-170602" /> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithm** and learning **Jetpack Compose🚀**
+- 🔭 I’m currently practicing **Data Structures and Algorithm**
+  
+- 🚀 I'm currently learning **Jetpack Compose**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working on **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://ashadnaushad.netlify.app/](https://ashadnaushad.netlify.app/)
 
