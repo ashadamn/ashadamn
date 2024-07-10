@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently working on **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://ashadnaushad.netlify.app/](https://ashadnaushad.netlify.app/)
-
 - 💬 Ask me about **Android dev, Kotlin, ML Integration**
 
 - 📫 How to reach me **mohda170602@gmail.com**
