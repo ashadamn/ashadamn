@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently practicing **Data Structures and Algorithm**
   
-- 🚀 I'm currently learning **JETPACK COMPOSE**
+- 🚀 I'm currently learning **IOS DEV**
 
 - 🌱 I’m currently working on **Android Development**
 
