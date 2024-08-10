@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966)]()
 <h1 align="center">Hi 👋, I'm Mohd Ashad Naushad</h1>
-<h3 align="center">A passionate Software enthusiast and Android Dev from Delhi, India | Programmer | Exploring the Depths of Data Structures and Algorithms | Crafting Clean and Efficient Code | Always Learning and Improving.</h3>
+<h3 align="center">A passionate Software enthusiast and Mobile Dev from Delhi, India | Programmer | Exploring the Depths of Data Structures and Algorithms | Crafting Clean and Efficient Code | Always Learning and Improving.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-u-170602&label=Profile%20views&color=0e75b6&style=flat" alt="ash-u-170602" /> </p>
